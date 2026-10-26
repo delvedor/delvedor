@@ -1,6 +1,7 @@
 # Hello there! 🚀☁️
 
-As a Senior Engineering Manager at [Elastic](https://www.elastic.co/), I lead a global team across 8 time zones, managing authentication, authorization, and user systems that handle tens of thousands of requests per minute.
+Working on data plane operations at [ClickHouse](https://clickhouse.com/), the fast, open-source analytical database powering realtime workloads from AI native startups to global enterprises. My focus is provisioning, orchestrating, scaling, updating, and operating physical ClickHouse clusters at scale: keeping rollouts safe, operate complex distributed systems, and the platform reliable as data volumes and latency expectations keep growing in the AI era.
+
 My focus is on building high-performing teams where everyone contributes their best work. I create inclusive environments that bring out diverse perspectives and innovative solutions. I prioritize operational excellence and exceptional customer experiences while embracing a "progress over perfection" mindset. This approach helps us deliver meaningful improvements that matter to users.
 By balancing technical needs with thoughtful leadership, we build robust security solutions that scale without compromising quality or team wellbeing.
 
